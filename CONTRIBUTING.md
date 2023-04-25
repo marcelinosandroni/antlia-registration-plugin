@@ -29,7 +29,7 @@ Feedback is always welcome, whether it's related to new features, existing funct
 
 ## TODO
 
-For more information about the project and its future plans, please see the TODO.md file.
+For more information about the project and its future plans, please see the [TODO](./TODO.md) list.
 
 We welcome contributions of any kind, and we are committed to providing a safe and welcoming environment for all developers. If you're interested in contributing to Antlia Registration, we encourage you to get involved and help us make the project even better!
 

@@ -5,4 +5,7 @@ composer.lock
 
 # Ignore temporary files
 tmp
+
+# Ignore config files
+.env
  

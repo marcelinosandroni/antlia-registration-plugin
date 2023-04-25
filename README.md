@@ -83,7 +83,7 @@ That's it! You have successfully set up Antlia Registration plugin with Docker.
 
 ## Contributing
 
-Contributions are welcome! To contribute, feel free to fork this repository and create a Pull Request or use the Issues section to report a bug or suggest a new feature.
+Contributions are welcome! To contribute, feel free to fork this repository and create a Pull Request or use the Issues section to report a bug or suggest a new feature, see more in the [CONTRIBUTING]( ./CONTRIBUTING.md ) section.
 
 ## License
 
