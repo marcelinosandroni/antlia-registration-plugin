@@ -50,10 +50,11 @@ This plugin relies on four functions:
 
 ## Technologies and Libraries Used
 
+- PHP
+- WordPress
 - Composer
-- WordPress Development Example
+- PHPOffice
 - wp-mail
-- frankmayer/criminal-record-checker
 
 
 ## Running Antlia Registration Plugin with Docker
