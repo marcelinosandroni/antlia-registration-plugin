@@ -94,8 +94,6 @@ Linkedin: https://www.linkedin.com/in/marcelinosandroni
 
 Feel free to contact me if you have any questions or feedback about this project.
 
-Of course, you can replace the name, role, email, GitHub profile, and Twitter handle with your own information.
-
 
 ## Contributing
 
