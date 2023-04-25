@@ -20,3 +20,6 @@ RUN chown -R www-data:www-data /var/www/html/wp-content/plugins/antlia-registrat
 # Set the container timezone to UTC
 ENV TZ=UTC
 RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
+
+# Back to default wordpress working directory
+WORKDIR /var/www/html
