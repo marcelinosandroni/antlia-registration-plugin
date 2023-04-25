@@ -1,0 +1,14 @@
+{
+    "name": "marcelino-sandroni/antlia-registration",
+    "description": "Process users registration in Antlia WebSite",
+    "version": "1.0.0",
+    "require": {
+        "php": ">=7.0",
+        "phpoffice/phpspreadsheet": "1.23"
+    },
+    "autoload": {
+        "psr-4": {
+            "MarcelinoSandroni\\AntliaRegistration\\": "src/"
+        }
+    }
+}
