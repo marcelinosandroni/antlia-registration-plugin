@@ -80,6 +80,22 @@ To activate the Antlia Registration plugin, log in to the WordPress dashboard an
 
 That's it! You have successfully set up Antlia Registration plugin with Docker.
 
+## Author
+
+**Marcelino Sandroni**
+
+*Software Developer*
+
+Email: [marcelino.sandroni@gmail.com](mailto:marcelino.sandroni@gmail.com)
+
+GitHub: https://github.com/marcelinosandroni
+
+Linkedin: https://www.linkedin.com/in/marcelinosandroni
+
+Feel free to contact me if you have any questions or feedback about this project.
+
+Of course, you can replace the name, role, email, GitHub profile, and Twitter handle with your own information.
+
 
 ## Contributing
 
